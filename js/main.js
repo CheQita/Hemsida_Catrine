@@ -2,6 +2,7 @@ var data = [];
 
 d3.json('content.json', function(error,jsonData) {
   data = jsonData;
+  update("index");
 });
 
 
