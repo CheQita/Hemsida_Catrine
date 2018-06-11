@@ -1,6 +1,6 @@
 var data = [];
 
-d3.json('http://localhost:8080/content.json', function(error,jsonData) {
+d3.json('content.json', function(error,jsonData) {
   data = jsonData;
 });
 
