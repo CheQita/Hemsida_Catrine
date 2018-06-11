@@ -1,0 +1,61 @@
+.navbar-custom {
+  background-color: #885E64;
+}
+
+.nav-item{
+  margin-left: 20px;
+}
+
+.c1, .c2, .c3, .c4, .c5 {
+  margin-top: 1.8em;
+  height: 200px;
+}
+
+.contactBox {
+  margin-top: 1.8em;
+  height: 400px;
+  background-color: white;
+}
+
+.imageBox {
+  margin-top: 1.8em;
+  height: 600px;
+  background-color: white;
+}
+.c1 {
+  background-color: #A5A39B;
+}
+
+.c2 {
+  background-color: #B58C92;
+}
+
+.c3 {
+  background-color: #BBB8AF;
+}
+
+.c4 {
+  background-color: #885E64;
+}
+
+.c5 {
+  background-color: #B2A778;
+}
+
+.jumbotron {
+  border-radius: 0;
+  background-image: url("http://www.delightfull.eu/blog/wp-content/uploads/2017/02/Cheval-Place_23312_LC-1750x1114.jpg");
+  background-position: center;
+  /*padding: 45vh 1rem 50vh;*/
+  color: white;
+  transition: 2s;
+}
+
+i {
+  font-size: 30px;
+  color: white;
+}
+
+.socialMediaBar {
+  margin-left: 500px;
+}
