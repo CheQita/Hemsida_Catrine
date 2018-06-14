@@ -6,8 +6,8 @@
                                    {
                                     "columnLength": 12, 
                                     "text": null, 
-                                    "image": "url('https://i.pinimg.com/564x/d0/f0/99/d0f0998ce76652385af37d1a683d324b.jpg')", 
-                                    "class": "imageBox"
+                                    "image": "url('images/Bild_Startsida.jpg')", 
+                                    "class": "imageBoxStart"
                                    }
                                    ]
                         }

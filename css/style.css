@@ -21,6 +21,12 @@
   margin-top: 1.8em;
   height: 350px;
   background-color: white;
+   
+}
+.imageBoxStart {
+  margin-top: 1.8em;
+  height: 600px;
+  background-color: white;
 }
 .c1 {
   background-color: #A5A39B;
@@ -44,7 +50,7 @@
 
 .jumbotron {
   border-radius: 0;
-  background-image: url("http://www.delightfull.eu/blog/wp-content/uploads/2017/02/Cheval-Place_23312_LC-1750x1114.jpg");
+  background-image: url("../images/Bild_Jumbotron.jpg");
   background-position: center;
   color: white;
 }
