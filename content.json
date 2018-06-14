@@ -75,21 +75,15 @@
                         "row": 1,
                         "columns": [
                                    {
-                                    "columnLength": 4, 
+                                    "columnLength": 6, 
                                     "text": null, 
-                                    "image": "url('https://i.pinimg.com/564x/6e/bc/57/6ebc57ff7406c42b3c0034d33d85162f.jpg')", 
+                                    "image": "url('images/Bild_1.jpg')", 
                                     "class": "imageBox"
                                    }, 
                                    {
-                                    "columnLength": 4, 
+                                    "columnLength": 6, 
                                     "text": null, 
-                                    "image": "url('https://i.pinimg.com/564x/ed/cd/60/edcd60022043de2ab1600f69be1b0d4a.jpg')", 
-                                    "class": "imageBox"
-                                   },
-                                   {
-                                    "columnLength": 4, 
-                                    "text": null, 
-                                    "image": "url('https://i.pinimg.com/564x/d2/e4/5f/d2e45fc010504a956c6b08e301f56b5a.jpg')", 
+                                    "image": "url('images/Bild_2.jpg')", 
                                     "class": "imageBox"
                                    }
                                    ]
@@ -98,21 +92,15 @@
                         "row": 2,
                         "columns": [
                                    {
-                                    "columnLength": 4, 
+                                    "columnLength": 6, 
                                     "text": null, 
-                                    "image": "url('https://i.pinimg.com/564x/34/4f/72/344f72b8c96021bfef9b43f6cd6e3b51.jpg')", 
+                                    "image": "url('images/Bild_3.jpg')", 
                                     "class": "imageBox"
                                    }, 
                                    {
-                                    "columnLength": 4, 
+                                    "columnLength": 6, 
                                     "text": null, 
-                                    "image": "url('https://i.pinimg.com/564x/93/05/00/9305008d1fee92b5c490511cbfdd077c.jpg')", 
-                                    "class": "imageBox"
-                                   },
-                                   {
-                                    "columnLength": 4, 
-                                    "text": null, 
-                                    "image": "url('https://i.pinimg.com/564x/b9/f5/0e/b9f50e3fbf8953dfe7e6a1784c3f6abd.jpg')", 
+                                    "image": "url('images/Bild_4.jpg')", 
                                     "class": "imageBox"
                                    }
                                    ]
@@ -121,21 +109,32 @@
                         "row": 3,
                         "columns": [
                                    {
-                                    "columnLength": 4, 
+                                    "columnLength": 6, 
                                     "text": null, 
-                                    "image": "url('https://i.pinimg.com/564x/62/57/fe/6257fe39a3372ae0c3e604e12508ef2e.jpg')", 
+                                    "image": "url('images/Bild_5.jpg')", 
                                     "class": "imageBox"
                                    }, 
                                    {
-                                    "columnLength": 4, 
+                                    "columnLength": 6, 
                                     "text": null, 
-                                    "image": "url('https://i.pinimg.com/564x/5c/6e/fd/5c6efd4ab315c4d15ccf42279d273c27.jpg')", 
+                                    "image": "url('images/Bild_6.jpg')", 
                                     "class": "imageBox"
-                                   },
+                                   }
+                                   ]
+                        },
+                        {
+                        "row": 4,
+                        "columns": [
                                    {
-                                    "columnLength": 4, 
+                                    "columnLength": 6, 
                                     "text": null, 
-                                    "image": "url('https://i.pinimg.com/564x/59/cf/9c/59cf9cd52830abaa260c905aae101bd4.jpg')", 
+                                    "image": null, 
+                                    "class": "imageBox"
+                                   }, 
+                                   {
+                                    "columnLength": 6, 
+                                    "text": null, 
+                                    "image": null, 
                                     "class": "imageBox"
                                    }
                                    ]

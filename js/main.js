@@ -2,11 +2,7 @@ var data = [];
 
 d3.json('content.json', function(error,jsonData) {
   data = jsonData;
-  update("index");
 });
-
-
-
 
 d3.select('#index')
   .on('click', function(){
